@@ -1,4 +1,6 @@
-# Get better dumbass
+# astrovrmods.github.io
+
+Get better dumbass
 
 All credits go to: https://github.com/lrusso
 
